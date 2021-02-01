@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_uri": "mysql://root:@localhost/code arena",
+    "fb_url": "https://facebook.com/codearenaa",
+    "tw_url": "https://twitter.com/codearenaa",
+    "gh_url": "https://github.com/codearenaa",
+    "blog_name": "Code Arena",
+    "tag_line": "Best for Beginners",
+    "no_of_posts": 3,
+    "login_image": "login.svg",
+    "admin_user":"admin",
+    "admin_password": "password",
+    "about": "Hello we welcome you to our tech blog. This is part of our Database Management system project.Hope so you enjoy our content"
+
+
+
+  }
+
+
+}
